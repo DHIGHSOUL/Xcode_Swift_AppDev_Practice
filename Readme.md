@@ -2,5 +2,5 @@
 
 프로젝트별로 Readme 파일로 각 프로젝트에 대해 설명하겠습니다.
 
-Project 01 _ ToDoList 구현
-    Add / Edit / Delete의 기본 기능을 가지는 ToDoList 앱 구현
+1. Project 01 _ ToDoList 구현
+Add / Edit / Delete의 기본 기능을 가지는 ToDoList 앱 구현
